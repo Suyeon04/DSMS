@@ -17,7 +17,17 @@
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+* ![main](https://user-images.githubusercontent.com/79086141/154687643-7aa25fc9-85e4-43bd-8128-00b9956e04d2.jpg)
+![video4444926355_Moment](https://user-images.githubusercontent.com/79086141/154687652-3e5743d2-6f8a-49a4-a0a6-b049c4d4f3e5.jpg)
+![기록 안함](https://user-images.githubusercontent.com/79086141/154687662-2e54d536-3ec0-4087-8bbb-e34ca1e9c295.jpg)
+![기록중](https://user-images.githubusercontent.com/79086141/154687672-8b72721a-6f3a-4832-b836-9ae15833ba39.jpg)
+![기록함](https://user-images.githubusercontent.com/79086141/154687682-8091f37f-965e-498d-b01a-e090bd130684.jpg)
+![이번달 기록](https://user-images.githubusercontent.com/79086141/154687698-7c6e43de-a04e-4860-bb3d-6d0e43c5379e.jpg)
+![실수령 그래프(달)](https://user-images.githubusercontent.com/79086141/154687712-adc1d891-e587-4b4e-a01d-8c79ab7214ee.png)
+![매출 그래프(주)](https://user-images.githubusercontent.com/79086141/154687730-e66e6b86-3b57-483a-9fea-6e4e80ca8d9e.png)
+![매출 그래프(달)](https://user-images.githubusercontent.com/79086141/154687748-7f4e9f19-f202-43d9-948d-868b79381ab2.png)
+![실수령 그래프(주)](https://user-images.githubusercontent.com/79086141/154687760-0f360f6b-26ee-4e27-94ce-3a97c2cec741.png)
+
 
 ### SCREENSHOT
 
