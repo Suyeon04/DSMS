@@ -15,24 +15,41 @@
   * ```위치``` : Google MAP API를 이용하여 식당의 위치를 확인할 수 있습니다.
 ### BUILT WITH
 
-* <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-* <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-* ![main](https://user-images.githubusercontent.com/79086141/154687643-7aa25fc9-85e4-43bd-8128-00b9956e04d2.jpg)
-![video4444926355_Moment](https://user-images.githubusercontent.com/79086141/154687652-3e5743d2-6f8a-49a4-a0a6-b049c4d4f3e5.jpg)
-![기록 안함](https://user-images.githubusercontent.com/79086141/154687662-2e54d536-3ec0-4087-8bbb-e34ca1e9c295.jpg)
-![기록중](https://user-images.githubusercontent.com/79086141/154687672-8b72721a-6f3a-4832-b836-9ae15833ba39.jpg)
-![기록함](https://user-images.githubusercontent.com/79086141/154687682-8091f37f-965e-498d-b01a-e090bd130684.jpg)
-![이번달 기록](https://user-images.githubusercontent.com/79086141/154687698-7c6e43de-a04e-4860-bb3d-6d0e43c5379e.jpg)
-![실수령 그래프(달)](https://user-images.githubusercontent.com/79086141/154687712-adc1d891-e587-4b4e-a01d-8c79ab7214ee.png)
-![매출 그래프(주)](https://user-images.githubusercontent.com/79086141/154687730-e66e6b86-3b57-483a-9fea-6e4e80ca8d9e.png)
-![매출 그래프(달)](https://user-images.githubusercontent.com/79086141/154687748-7f4e9f19-f202-43d9-948d-868b79381ab2.png)
-![실수령 그래프(주)](https://user-images.githubusercontent.com/79086141/154687760-0f360f6b-26ee-4e27-94ce-3a97c2cec741.png)
+* <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Java</title><path d="M8.851 18.56s-.917.534.653.714c1.902.218 2.874.187 4.969-.211 0 0 .552.346 1.321.646-4.699 2.013-10.633-.118-6.943-1.149M8.276 15.933s-1.028.761.542.924c2.032.209 3.636.227 6.413-.308 0 0 .384.389.987.602-5.679 1.661-12.007.13-7.942-1.218M13.116 11.475c1.158 1.333-.304 2.533-.304 2.533s2.939-1.518 1.589-3.418c-1.261-1.772-2.228-2.652 3.007-5.688 0-.001-8.216 2.051-4.292 6.573M19.33 20.504s.679.559-.747.991c-2.712.822-11.288 1.069-13.669.033-.856-.373.75-.89 1.254-.998.527-.114.828-.093.828-.093-.953-.671-6.156 1.317-2.643 1.887 9.58 1.553 17.462-.7 14.977-1.82M9.292 13.21s-4.362 1.036-1.544 1.412c1.189.159 3.561.123 5.77-.062 1.806-.152 3.618-.477 3.618-.477s-.637.272-1.098.587c-4.429 1.165-12.986.623-10.522-.568 2.082-1.006 3.776-.892 3.776-.892M17.116 17.584c4.503-2.34 2.421-4.589.968-4.285-.355.074-.515.138-.515.138s.132-.207.385-.297c2.875-1.011 5.086 2.981-.928 4.562 0-.001.07-.062.09-.118M14.401 0s2.494 2.494-2.365 6.33c-3.896 3.077-.888 4.832-.001 6.836-2.274-2.053-3.943-3.858-2.824-5.539 1.644-2.469 6.197-3.665 5.19-7.627M9.734 23.924c4.322.277 10.959-.153 11.116-2.198 0 0-.302.775-3.572 1.391-3.688.694-8.239.613-10.937.168 0-.001.553.457 3.393.639"/></svg>
 
 
 ### SCREENSHOT
 
 * MAINPAGE
-![mirimrestaurant_main](https://user-images.githubusercontent.com/79081836/125162459-e8c40e80-e1c2-11eb-9486-e6143d2d4157.JPG)
+![main](https://user-images.githubusercontent.com/79086141/154687643-7aa25fc9-85e4-43bd-8128-00b9956e04d2.jpg)
+
+* 회원가입 PAGE
+![video4444926355_Moment](https://user-images.githubusercontent.com/79086141/154687652-3e5743d2-6f8a-49a4-a0a6-b049c4d4f3e5.jpg)
+
+* 기록하기 전의 오늘 매출 및 지출 PAGE
+![기록 안함](https://user-images.githubusercontent.com/79086141/154687662-2e54d536-3ec0-4087-8bbb-e34ca1e9c295.jpg)
+
+* 오늘 매출 및 지출 기록 PAGE
+![기록중](https://user-images.githubusercontent.com/79086141/154687672-8b72721a-6f3a-4832-b836-9ae15833ba39.jpg)
+
+* 기록한 후의 오늘 매출 및 지출 PAGE
+![기록함](https://user-images.githubusercontent.com/79086141/154687682-8091f37f-965e-498d-b01a-e090bd130684.jpg)
+
+* 이번달 매출액 및 실수령액
+![이번달 기록](https://user-images.githubusercontent.com/79086141/154687698-7c6e43de-a04e-4860-bb3d-6d0e43c5379e.jpg)
+
+* 매출 그래프(주)
+![매출 그래프(주)](https://user-images.githubusercontent.com/79086141/154687730-e66e6b86-3b57-483a-9fea-6e4e80ca8d9e.png)
+
+* 매출 그래프(달)
+![매출 그래프(달)](https://user-images.githubusercontent.com/79086141/154687748-7f4e9f19-f202-43d9-948d-868b79381ab2.png)
+
+* 실수령 그래프(주)
+![실수령 그래프(주)](https://user-images.githubusercontent.com/79086141/154687760-0f360f6b-26ee-4e27-94ce-3a97c2cec741.png)
+
+* 실수령 그래프(달)
+![실수령 그래프(달)](https://user-images.githubusercontent.com/79086141/154687712-adc1d891-e587-4b4e-a01d-8c79ab7214ee.png)
+
 
 
 ### CONTACT
