@@ -17,7 +17,7 @@
  * ```실수령액 그래프(주)``` : 오늘을 포함한 지난 일주일간의 실수령액을 그래프로 한눈에 볼 수 있습니다
  * ```실수령액 그래프(월)``` : 올해의 매달 실수령액을 그래프로 한눈에 볼 수 있습니다. 지난 해의 실수령액 그래프도 볼 수 있어 변화를 빠르게 인지 할 수 있습니다.
 ### BUILT WITH
-*
+* <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
 
 
 ### SCREENSHOT
