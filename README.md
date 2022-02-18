@@ -21,7 +21,7 @@
 ### SCREENSHOT
 
 * ```MAINPAGE```
- ![main](https://user-images.githubusercontent.com/79086141/154687643-7aa25fc9-85e4-43bd-8128-00b9956e04d2.jpg)
+   <img src="![main](https://user-images.githubusercontent.com/79086141/154687643-7aa25fc9-85e4-43bd-8128-00b9956e04d2.jpg)" width="100" /></img>
 
 * ```회원가입 PAGE```
  ![video4444926355_Moment](https://user-images.githubusercontent.com/79086141/154687652-3e5743d2-6f8a-49a4-a0a6-b049c4d4f3e5.jpg)
